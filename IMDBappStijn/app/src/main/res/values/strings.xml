@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">OMDB Database</string>
+    <string name="noResults">No results were found:(</string>
+    <string name="dataRetreival">Retreiving data from server</string>
+    <string name="instructions">Type in a name to search movies by title.</string>
+</resources>

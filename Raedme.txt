@@ -1,0 +1,8 @@
+Stijn Buiteman
+11072783
+stijnbuiteman@gmail.com
+
+<OMDB API>
+This app features the OMDB API, user can search for movies by title. Results are shown in a list. Items in the
+list can be clicked to start a new activity in which more detailed information about the clicked movie is displayed.
+Call to API are done with a httprequesthelper and executed in an asynctask manager as to not block the current thread.
